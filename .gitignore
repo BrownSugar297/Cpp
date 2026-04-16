@@ -1,0 +1,27 @@
+# Compiled Output
+*.exe
+*.o
+*.obj
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Build Folders
+build/
+Debug/
+Release/
+x64/
+x86/
+cmake-build-debug/
+
+# IDE Files
+.vs/
+.vscode/
+*.sln
+*.vcxproj.user
+*.swp
+
+# OS Junk
+Thumbs.db
+.DS_Store
