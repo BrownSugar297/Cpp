@@ -1,4 +1,4 @@
-# 📗 C++ Programming — Learning Repository
+# 📗 C++ Programming 
 
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
 ![Level](https://img.shields.io/badge/Level-Beginner-green?style=flat-square)
